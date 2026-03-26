@@ -1,0 +1,8 @@
+# Test binaries and output
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.iml
