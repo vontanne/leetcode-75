@@ -11,6 +11,10 @@ Go solutions for LeetCode 75 study plan with time and space complexity analysis.
 - [1431. Kids With the Greatest Number of Candies](solutions/arraystring/kids_with_the_greatest_number_of_candies.go)
 - [605. Can Place Flowers](solutions/arraystring/can_place_flowers.go)
 - [345. Reverse Vowels of a String](solutions/arraystring/reverse_vowels_of_a_string.go)
+- [151. Reverse Words in a String](solutions/arraystring/reverse_words_in_a_string.go)
+- [238. Product of Array Except Self](solutions/arraystring/product_of_array_except_self.go)
+- [334. Increasing Triplet Subsequence](solutions/arraystring/increasing_triplet_subsequence.go)
+- [443. String Compression](solutions/arraystring/string_compression.go)
 
 **Two Pointers**
 
@@ -22,3 +26,8 @@ Go solutions for LeetCode 75 study plan with time and space complexity analysis.
 **Sliding Window**
 
 - [643. Maximum Average Subarray I](solutions/slidingwindow/maximum_average_subarray.go)
+
+**Prefix Sum**
+
+- [1732. Find the Highest Altitude](solutions/prefixsum/find_highest_altitude.go)
+- [724. Find Pivot Index](solutions/prefixsum/find_pivot_index.go)
