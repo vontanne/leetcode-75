@@ -39,7 +39,20 @@ Go solutions for LeetCode 75 study plan with time and space complexity analysis.
 - [1657. Determine if Two Strings Are Close](solutions/hashmapset/determine_if_two_strings_are_close.go)
 - [2352. Equal Row and Column Pairs](solutions/hashmapset/equal_row_and_column_pairs.go)
 
+**Stack**
+
+- [2390. Removing Stars From a String](solutions/stack/removing_stars_from_a_string.go)
+- [735. Asteroid Collision](solutions/stack/asteroid_collision.go)
+- [394. Decode String](solutions/stack/decode_string.go)
+
 **Queue**
 
 - [933. Number of Recent Calls](solutions/queue/number_of_recent_calls.go)
 - [649. Dota2 Senate](solutions/queue/dota2_senate.go)
+
+**Linked List**
+
+- [2095. Delete the Middle Node of a Linked List](solutions/linkedlist/delete_middle_node.go)
+- [328. Odd Even Linked List](solutions/linkedlist/odd_even_linked_list.go)
+- [206. Reverse Linked List](solutions/linkedlist/reverse_linked_list.go)
+- [2130. Maximum Twin Sum of a Linked List](solutions/linkedlist/maximum_twin_sum.go)
