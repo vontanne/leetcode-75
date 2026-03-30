@@ -56,3 +56,12 @@ Go solutions for LeetCode 75 study plan with time and space complexity analysis.
 - [328. Odd Even Linked List](solutions/linkedlist/odd_even_linked_list.go)
 - [206. Reverse Linked List](solutions/linkedlist/reverse_linked_list.go)
 - [2130. Maximum Twin Sum of a Linked List](solutions/linkedlist/maximum_twin_sum.go)
+
+**Binary Tree – DFS**
+
+- [104. Maximum Depth of Binary Tree](solutions/binarytreedfs/maximum_depth_of_binary_tree.go)
+- [872. Leaf-Similar Trees](solutions/binarytreedfs/leaf_similar_trees.go)
+- [1448. Count Good Nodes in Binary Tree](solutions/binarytreedfs/count_good_nodes_in_binary_tree.go)
+- [437. Path Sum III](solutions/binarytreedfs/path_sum_iii.go)
+- [1372. Longest ZigZag Path in a Binary Tree](solutions/binarytreedfs/longest_zigzag_path.go)
+- [236. Lowest Common Ancestor of a Binary Tree](solutions/binarytreedfs/lowest_common_ancestor.go)
