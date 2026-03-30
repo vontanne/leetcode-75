@@ -65,3 +65,19 @@ Go solutions for LeetCode 75 study plan with time and space complexity analysis.
 - [437. Path Sum III](solutions/binarytreedfs/path_sum_iii.go)
 - [1372. Longest ZigZag Path in a Binary Tree](solutions/binarytreedfs/longest_zigzag_path.go)
 - [236. Lowest Common Ancestor of a Binary Tree](solutions/binarytreedfs/lowest_common_ancestor.go)
+
+**Binary Tree – BFS**
+
+- [199. Binary Tree Right Side View](solutions/binarytreebfs/binary_tree_right_side_view.go)
+- [1161. Maximum Level Sum of a Binary Tree](solutions/binarytreebfs/maximum_level_sum.go)
+
+**Binary Search Tree**
+
+- [700. Search in a Binary Search Tree](solutions/binarysearchtree/search_in_a_binary_search_tree.go)
+- [450. Delete Node in a BST](solutions/binarysearchtree/delete_node.go)
+
+**Bit Manipulation**
+
+- [136. Single Number](solutions/bitmanipulation/single_number.go)
+- [338. Counting Bits](solutions/bitmanipulation/counting_bits.go)
+- [1318. Minimum Flips to Make a OR b Equal to c](solutions/bitmanipulation/minimum_flips_to_make_a_or_b_equal_to_c.go)
